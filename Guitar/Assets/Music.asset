@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54de0fbdd02a3c244b95787ae0f48184, type: 3}
+  m_Name: Music
+  m_EditorClassIdentifier: 
+  music: {fileID: 8300000, guid: 8e1f869b794120947acd581ebe696d32, type: 3}
+  tiles:
+  - spawnTime: 0.73926234
+    state: 0
+    Line: 0
+  - spawnTime: 1.0923429
+    state: 0
+    Line: 1
+  - spawnTime: 1.4123222
+    state: 0
+    Line: 2
+  - spawnTime: 1.8316052
+    state: 0
+    Line: 3
+  BPM: 166
